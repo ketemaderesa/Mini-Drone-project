@@ -6,8 +6,8 @@ Each drone is represented as a glowing dot that moves in formations and changes 
 
 🚀 Run the Project
 1. Clone this repo
-git clone https://github.com/ketemaderesa/Mini-Drone-project.git
-cd Mini-Drone-project
+git clone https://github.com/ketemaderesa/Mini-Drone-project.git    
+  cd Mini-Drone-project                                                      
 
 2. Open in VS Code
 
